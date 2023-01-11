@@ -11,14 +11,15 @@ Supports Needed for the following parts:
 
 Build Log and Demo videos 
 
-  Part 1 - Design Overview, Locking Mechanism & Multi Platform Compatibility
-  https://youtu.be/ngXJsfzE4eQ
+* Part 1 - Design Overview, Locking Mechanism & Multi Platform Compatibility
+https://youtu.be/ngXJsfzE4eQ
 
-  To Be Published:
-  Part 2 - Frame Overview & Carriage Assembly with Tool Locking Mechanism
-  Part 3 - Assembling a tool - Dragon and V6 Hotend
-  Part 4 - Putting it all together - carriage, tool, dock and their alignment 
-  Part 5 - Wiring Overview - wire looms & ptfe management
-  Part 6 - Electronics and Wiring management
-  Part 7 - Software Setup & Initial Configuration
-  Part 8 - Printing in multi material with the tool changer.
+To Be Published:
+
+* Part 2 - Frame Overview & Carriage Assembly with Tool Locking Mechanism
+* Part 3 - Assembling a tool - Dragon and V6 Hotend
+* Part 4 - Putting it all together - carriage, tool, dock and their alignment 
+* Part 5 - Wiring Overview - wire looms & ptfe management
+* Part 6 - Electronics and Wiring management
+* Part 7 - Software Setup & Initial Configuration
+* Part 8 - Printing in multi material with the tool changer.
