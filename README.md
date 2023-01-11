@@ -2,7 +2,7 @@
 
 This is the repository for the WP-DAKSH 3D Printed Tool Changer. More information to be available soon.
 
-BOM Available at https://docs.google.com/spreadsheets/d/12ISdJoCqgUTPsUwRrQ3VZWM-GBWw20C0cgHo7VGqMWU/edit?usp=sharing
+BOM: https://docs.google.com/spreadsheets/d/12ISdJoCqgUTPsUwRrQ3VZWM-GBWw20C0cgHo7VGqMWU/edit?usp=sharing
 
 Supports Needed for the following parts:
 
