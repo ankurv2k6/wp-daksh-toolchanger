@@ -9,14 +9,24 @@ Supports Needed for the following parts:
 * Tools - STL/tools/v6/v6_front.stl, STL/tools/dragon/dragon_front.stl
 * Dock -  STL/dock/dock_mount_left.stl, STL/dock/dock_mount_right.stl, STL/dock/dock_mount_middle.stl
 
+Youtube Channel 
+https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w
+
+Discord
+https://discord.gg/FeJdSxFvzY
+
+Sample Prints
+https://www.youtube.com/shorts/frgv8jO_Ujw
+
+
 Build Log and Demo videos 
 
 * Part 1 - Design Overview, Locking Mechanism & Multi Platform Compatibility
 https://youtu.be/ngXJsfzE4eQ
+* Part 2 - Frame Overview & Carriage Assembly with Tool Locking Mechanism
+https://youtu.be/NwCNtsxbfR4
 
 To Be Published:
-
-* Part 2 - Frame Overview & Carriage Assembly with Tool Locking Mechanism
 * Part 3 - Assembling a tool - Dragon and V6 Hotend
 * Part 4 - Putting it all together - carriage, tool, dock and their alignment 
 * Part 5 - Wiring Overview - wire looms & ptfe management
