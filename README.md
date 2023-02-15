@@ -14,7 +14,7 @@ It features state of the art advanced features including:
   * Integrated nozzle cleaning mechanism for clean prints without the need for a purge tower / ooze shield
   * 4x4 LED Display on toolhead to display the current state of toolhead
   * Custom Klipper configuration, modules and macros for an integrated software package
-  * Stiff Wire Looms and recoil management like Prusa XL - wire looms are contained within the printer frame itself.
+  * Stiff Wire Looms and recoil management like Prusa XL - wire looms are entirely contained within the printer frame itself.
   *  Fully Enclosed Design in the same design ethos as the original Voron Trident design - giving it the ability to print high temp materials like ABS, PA6-CF and PC-CF etc which require enclosed chambers.
 
 The design is open source and can be used freely for non commercial purposes. Do join the discord group at the link below and subscribe to the Youtube channel for more updates and interesting projects like this.
