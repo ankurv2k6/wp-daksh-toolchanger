@@ -19,9 +19,9 @@ It features state of the art advanced features including:
 
 The design is open source and can be used freely for non commercial purposes. Do join the discord group at the link below and subscribe to the Youtube channel for more updates and interesting projects like this.
 
-Github - https://github.com/ankurv2k6/wp-daksh-toolchanger
-WP-Daksh Discord - https://discord.gg/Kz9VC8rWPg
-Initial BOM - https://docs.google.com/spreadsheets/d/12ISdJoCqgUTPsUwRrQ3VZWM-GBWw20C0cgHo7VGqMWU
+* Github - https://github.com/ankurv2k6/wp-daksh-toolchanger
+* WP-Daksh Discord - https://discord.gg/Kz9VC8rWPg
+* Initial BOM - https://docs.google.com/spreadsheets/d/12ISdJoCqgUTPsUwRrQ3VZWM-GBWw20C0cgHo7VGqMWU
 
 
 IMPORTANT INFO
