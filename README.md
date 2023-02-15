@@ -35,7 +35,22 @@ Intelligent Error State Detection and Recovery Demo - https://www.youtube.com/wa
 
 Automatic XYZ Multi Tool Calibration Demo - https://www.youtube.com/watch?v=ppcTm3NfDo0
 
-Sample Prints -  https://www.youtube.com/shorts/frgv8jO_Ujw
+Sample Prints
+
+<img src="images/sample-prints/IMG_4143.jpg" data-canonical-src="images/sample-prints/IMG_4143.jpg" width="800" />
+
+<img src="images/sample-prints/IMG_4143.jpg" data-canonical-src="images/sample-prints/IMG_4181.jpg" width="800" />
+
+
+Build Images
+
+
+<img src="images/build/IMG_4173.jpg" data-canonical-src="images/sample-prints/IMG_4181.jpg" width="800" />
+<img src="images/build/IMG_4174.jpg" data-canonical-src="images/sample-prints/IMG_4181.jpg" width="800" />
+<img src="images/build/IMG_4168.jpg" data-canonical-src="images/sample-prints/IMG_4181.jpg" width="800" />
+<img src="images/build/IMG_4171.jpg" data-canonical-src="images/sample-prints/IMG_4181.jpg" width="800" />
+<img src="images/build/IMG_4190.jpg" data-canonical-src="images/sample-prints/IMG_4190.jpg" width="800" />
+
 
 Build Log and Demo videos 
 
