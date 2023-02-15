@@ -31,6 +31,12 @@ Supports Needed for the following parts:
 * Tools - STL/tools/v6/v6_front.stl, STL/tools/dragon/dragon_front.stl
 * Dock -  STL/dock/dock_mount_left.stl, STL/dock/dock_mount_right.stl, STL/dock/dock_mount_middle.stl
 
+Intelligent Error State Detection and Recovery Demo
+https://www.youtube.com/watch?v=iPQEkaGzjxA&t=93s
+
+Automatic XYZ Multi Tool Calibration Demo
+https://www.youtube.com/watch?v=ppcTm3NfDo0
+
 Sample Prints
 https://www.youtube.com/shorts/frgv8jO_Ujw
 
