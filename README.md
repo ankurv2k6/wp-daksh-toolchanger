@@ -8,7 +8,7 @@ It features state of the art advanced features including:
   * Servo Burnout protection for enhanced life and efficient tool changes
   * Intelligent Error State Detection and Recovery minimizing failed prints
   * Automatic XYZ calibration across the different tools
-  * Ultra Fast tool changing times of under 10 seconds
+  * Ultra Fast tool changing times of under 10 seconds - including nozzle cleaning and priming.
   * Capable of High accelerations and print speeds
   * Minimal loss in build space with the tool changer addition
   * Integrated nozzle cleaning mechanism for clean prints without the need for a purge tower / ooze shield
