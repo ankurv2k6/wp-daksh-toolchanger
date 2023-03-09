@@ -43,6 +43,8 @@ Sample Prints
 
 <img src="images/sample-prints/IMG_4338.jpeg" data-canonical-src="images/sample-prints/IMG_4338.jpeg" width="800" />
 
+<img src="images/sample-prints/IMG_4235.jpeg" data-canonical-src="images/sample-prints/IMG_4235.jpeg" width="800" />
+
 
 
 Build Images
@@ -52,7 +54,7 @@ Build Images
 <img src="images/build/IMG_4174.jpg" data-canonical-src="images/sample-prints/IMG_4181.jpg" width="800" />
 <img src="images/build/IMG_4168.jpg" data-canonical-src="images/sample-prints/IMG_4181.jpg" width="800" />
 <img src="images/build/IMG_4171.jpg" data-canonical-src="images/sample-prints/IMG_4181.jpg" width="800" />
-<img src="images/build/IMG_4190.jpg" data-canonical-src="images/sample-prints/IMG_4190.jpg" width="800" />
+<img src="images/build/IMG_4289.jpeg" data-canonical-src="images/sample-prints/IMG_4289.jpeg" width="800" />
 
 
 Build Log and Demo videos 
