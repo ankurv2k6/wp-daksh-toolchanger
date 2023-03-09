@@ -39,7 +39,7 @@ Sample Prints
 
 <img src="images/sample-prints/IMG_4143.jpg" data-canonical-src="images/sample-prints/IMG_4143.jpg" width="800" />
 
-<img src="images/sample-prints/IMG_4143.jpg" data-canonical-src="images/sample-prints/IMG_4181.jpg" width="800" />
+<img src="images/sample-prints/IMG_4181.jpg" data-canonical-src="images/sample-prints/IMG_4181.jpg" width="800" />
 
 
 Build Images
