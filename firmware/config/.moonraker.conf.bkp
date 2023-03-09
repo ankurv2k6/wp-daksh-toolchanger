@@ -1,0 +1,69 @@
+[server]
+host = 0.0.0.0
+port = 7125
+
+[data_store]
+temperature_store_size = 600
+gcode_store_size = 1000
+
+[authorization]
+force_logins = True
+cors_domains = 
+	*.local
+	*.lan
+	*://app.fluidd.xyz
+trusted_clients = 
+	10.0.0.0/8
+	127.0.0.0/8
+	169.254.0.0/16
+	172.16.0.0/12
+	192.168.0.0/16
+	FE80::/10
+	::1/128
+
+[octoprint_compat]
+
+[history]
+
+[update_manager]
+enable_auto_refresh = True
+
+[update_manager client fluidd]
+type = web
+repo = cadriel/fluidd
+path = ~/fluidd
+
+[paneldue]
+serial = /dev/ttyAMA0
+baud = 57600
+machine_name = Klipper
+macros = 
+	T_1
+	CLAMP_UP
+	CLAMP_DOWN
+confirmed_macros = 
+	RESTART
+	FIRMWARE_RESTART
+
+[update_manager led_effect]
+type = git_repo
+path = ~/printer_data/modules/klipper-led_effect
+origin = https://github.com/julianschill/klipper-led_effect.git
+is_system_service = False
+
+[notifier daksh_slack_notifier]
+url = https://hooks.slack.com/services/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
+events = gcode
+body = {event_message}
+
+[update_manager timelapse]
+type = git_repo
+primary_branch = main
+path = ~/moonraker-timelapse
+origin = https://github.com/mainsail-crew/moonraker-timelapse.git
+managed_services = klipper moonraker
+
+[timelapse]
+output_path = ~/printer_data/timelapse/
+frame_path = /tmp/timelapse/printer
+
