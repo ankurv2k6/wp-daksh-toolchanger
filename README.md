@@ -23,6 +23,18 @@ The design is open source and can be used freely for non commercial purposes. Do
 * WP-Daksh Discord - https://discord.gg/Kz9VC8rWPg
 * Initial BOM - https://docs.google.com/spreadsheets/d/12ISdJoCqgUTPsUwRrQ3VZWM-GBWw20C0cgHo7VGqMWU
 
+Build Log and Demo videos 
+
+https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w
+
+* Part 1 - Design Overview, Locking Mechanism & Multi Platform Compatibility
+* Part 2 - Frame Overview & Carriage Assembly with Tool Locking Mechanism
+* Part 3 - Assembling a tool - Dragon and V6 Hotend
+* Part 4 - Putting it all together - carriage, tool, dock and their alignment 
+* Part 5 - Wiring Overview - wire looms & ptfe management
+* Part 6 - Electronics and Wiring management
+* Part 7 - Software Setup & Initial Configuration
+* Part 8 - Printing in multi material with the tool changer.
 
 IMPORTANT INFO
 
@@ -57,15 +69,3 @@ Build Images
 <img src="images/build/IMG_4289.jpeg" data-canonical-src="images/sample-prints/IMG_4289.jpeg" width="800" />
 
 
-Build Log and Demo videos 
-
-https://www.youtube.com/channel/UCr8K1tva2CaEhyqNyaEjq_w
-
-* Part 1 - Design Overview, Locking Mechanism & Multi Platform Compatibility
-* Part 2 - Frame Overview & Carriage Assembly with Tool Locking Mechanism
-* Part 3 - Assembling a tool - Dragon and V6 Hotend
-* Part 4 - Putting it all together - carriage, tool, dock and their alignment 
-* Part 5 - Wiring Overview - wire looms & ptfe management
-* Part 6 - Electronics and Wiring management
-* Part 7 - Software Setup & Initial Configuration
-* Part 8 - Printing in multi material with the tool changer.
