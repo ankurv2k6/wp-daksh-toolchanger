@@ -1,3 +1,5 @@
+Note: probe_multi_axis.py was dervied from the excellent work done here - https://github.com/ben5459/Klipper_ToolChanger/blob/master/probe_multi_axis.py
+
 # Tools for klipper
 
 This are python extras, macros and example config for the
